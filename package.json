@@ -1,0 +1,10 @@
+{
+  "name": "govna",
+  "description": "Debounce, throttle, and tick wrappers to govern when a function executes.",
+  "version": "0.1.0",
+  "main": "./index",
+  "repository": "git://github.com/shanebo/govna.git",
+  "author": "Shane Thacker <shane@steadymade.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
